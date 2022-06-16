@@ -1,0 +1,5 @@
+Notes:
+How to verify the proper enviornment?
+Testing of numerical methods? 
+RL agent can be tested by reconstruction
+
